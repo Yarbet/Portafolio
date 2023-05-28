@@ -1,0 +1,72 @@
+ /* Tus estilos CSS aquí */
+ .redes-sociales {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+.redes-sociales a {
+  margin: 0 10px;
+}
+
+.redes-sociales img {
+  width: 30px; /* Ajusta el ancho según tus necesidades */
+  height: 30px; /* Ajusta la altura según tus necesidades */
+}
+
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+    }
+
+header {
+background-color: #45b9b4;
+padding: 20px;
+text-align: center;
+    }
+
+header img {
+  width: 200px; /* Cambia el ancho de la imagen según tus necesidades */
+  height: 150px; /* Esto permite que la altura se ajuste automáticamente según el ancho */
+  border-radius: 50%;
+}
+
+h1 {
+color: #333;
+font-size: 24px;
+}
+
+h2 {
+color: #666;
+font-size: 18px;
+}
+
+section {
+padding: 20px;
+margin-bottom: 20px;
+background-color: #fff;
+    }
+
+h3 {
+color: #000000c4;
+font-size: 16px;
+}
+
+p {
+color: #0a0a0a;
+line-height: 1.5;
+}
+
+ul {
+list-style-type: disc;
+padding-left: 20px;
+}
+
+footer {
+background-color: #24aa9f;
+padding: 20px;
+text-align: center;
+font-size: 14px;
+color: #0f0e0e;
+    }
